@@ -1,5 +1,5 @@
 # Triple-Sort
-This Repository will contain the sorting algorithm for an array by selecting any three elements and perform circular right shift to get a sorted array.
+This Repository  contains the sorting algorithm for an array by selecting any three elements and perform circular right shift to get a sorted array.
 You are given a permutation p1,p2,…,pN of the integers 1 through N. You may perform up to K
 
 operations of the following type:
